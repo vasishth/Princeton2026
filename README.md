@@ -1,6 +1,6 @@
 # Can context eliminate garden-pathing? A Bayesian approach
 
-Speaker: Shravan Vasishth (vasishth.github.io)
+Speaker: [Shravan Vasishth](vasishth.github.io)
 
 This research was led by [Dario Paape](https://d-paape.github.io/).
 
