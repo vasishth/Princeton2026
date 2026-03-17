@@ -2,6 +2,8 @@
 
 Speaker: Shravan Vasishth (vasishth.github.io)
 
+This research was led by [Dario Paape](https://d-paape.github.io/).
+
 # Abstract:
 
 Garden-path sentences are constructions that temporarily mislead the reader into
