@@ -1,4 +1,4 @@
-# Can context eliminate garden-pathing? A Bayesian mixture-modeling approach
+# Can context eliminate garden-pathing? A Bayesian approach
 
 Speaker: Shravan Vasishth (vasishth.github.io)
 
