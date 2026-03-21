@@ -15,3 +15,8 @@ relies, at least initially, only on syntactic information (the syntax-first
 account, e.g., Frazier 1979). The context-sensitivity vs. syntax-first debate remains unresolved. We show that there may not be a simple yes-no answer to the question of context-sensitivity. In joint work with Dario Paape, we show that sentence processing involves a cascade of probabilistically occurring latent processes. This latent-process view implies that context-sensitivity may only be occurring probabilistically and in a graded manner. We present a Bayesian hierarchical multinomial processing tree model that spells out several independently motivated probabilistic latent processes.
 
 Full paper: https://doi.org/10.1016/j.jml.2026.104748
+
+# Workshop notes
+
+- If you are unfamiliar with logistic regession (in Stan), please review the online lecture on chapter 4 and the associated materials available [here](https://vasishth.github.io/LecturesIntroBayes/).
+- If you are unfamiliar with hierarchical modeling, then watch the online lecture on chapter 5 as well (see link immediately above).
